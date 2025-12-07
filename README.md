@@ -9,7 +9,7 @@ Welcome to my corner of the internet, where code meets creativity! 🎨 Whether 
 - 🔧 **Full Stack Developer** with a passion for bringing ideas to life through code.
 - 🌟 Former intern at **Meta Craftlab**, where I learned the magic of building seamless applications.
 - 💡 Proficient in **Python, C, C++, HTML, CSS, JS, PHP**, and **Svelte**—making full-stack development my playground.
-- 🏋️‍♂️ Fitness and strength are key in life and code! Recently hit a personal best: **190 kg deadlift** and **155 kg squat** 💪.
+- 🏋️‍♂️ Fitness and strength are key in life and code! Recently hit a personal best: **200+ kg deadlift** and **170+ kg squat** 💪.
 - 🐱 Lover of cats—taking care of my daily visitors who never fail to touch my heart (and feet).
 
 ## 🛠️ Tech Stack
