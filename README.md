@@ -1,6 +1,6 @@
 # Hello, World! 🌍
 
-![Aman Gupta Image]([https://github.com/Amvic7/Amvic7/raw/main/aman.png](https://github.com/Amvic7/Amvic7/blob/main/aman%20(5).png))
+![Aman Gupta Image](https://github.com/Amvic7/Amvic7/blob/main/aman%20(5).png)
 
 
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
